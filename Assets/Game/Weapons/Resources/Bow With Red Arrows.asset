@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97fbf16691ede7748924b72d7165574f, type: 3}
+  m_Name: Bow With Red Arrows
+  m_EditorClassIdentifier: 
+  itemID: deabaef2-021a-40aa-bf1a-c50e6717575f
+  displayName: Bow
+  description: 
+  icon: {fileID: 21300000, guid: 763a6839bdf6ce44b9fc70239a6c3ed9, type: 3}
+  pickup: {fileID: 2695036749352355600, guid: 6ef9bf05797a30f4b9c725a87dd73290, type: 3}
+  stackable: 0
+  allowedEquipLocation: 5
+  equippedPrefab: {fileID: 4634496614584584127, guid: 78635ee12364c55418b9ba472ec67feb,
+    type: 3}
+  animatorOverride: {fileID: 22100000, guid: 3a9c4c4ebffec7c46aa007abab753a5d, type: 2}
+  weaponRange: 20
+  damage: 10
+  percentageModifier: 0
+  handed: 1
+  projectile: {fileID: 6104697748587974555, guid: 5f5d43bc7bb877246855344cc7a57e32,
+    type: 3}

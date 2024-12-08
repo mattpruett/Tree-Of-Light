@@ -1,0 +1,4 @@
+The player reaches a cabin in the woods and his evil twin ambushes him.
+  - cabin in woods
+  - try to escape or defeat evil twin
+  - will he run or will he fight?

@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: d331b03d820a1164f96e545cd73b9689
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bankje
+    100002: Barrel
+    100004: BuildingBlock_A
+    100006: BuildingBlock_B
+    100008: BuildingBlock_C
+    100010: BuildingBlock_D
+    100012: BuildingBlock_E
+    100014: BuildingBlock_F
+    100016: BuildingBlock_G
+    100018: BuildingBlock_H
+    100020: BuildingBlock_J
+    100022: BuildingBlock_K
+    100024: BuildingBlock_L
+    100026: BuildingBlock_M
+    100028: BuildingBlock_N
+    100030: BuildingBlock_O
+    100032: BuildingBlock_P
+    100034: Cellar_Entrance
+    100036: Chimney_A
+    100038: Door_A
+    100040: Door_Square
+    100042: Door_wSteps
+    100044: Fence
+    100046: Lamp_A
+    100048: Lamp_A 1
+    100050: Lamp_B
+    100052: Lamp_Single
+    100054: Lamppost
+    100056: Lamppost 1
+    100058: Lamppost_Double
+    100060: Lamppost_Single
+    100062: Road_Stones
+    100064: //RootNode
+    100066: Tavern
+    100068: TavernHouse
+    100070: Window_A
+    100072: Window_Square
+    100074: Window_Square_Blocked
+    100076: Window_Stickout
+    100078: Window_Arch
+    400000: Bankje
+    400002: Barrel
+    400004: BuildingBlock_A
+    400006: BuildingBlock_B
+    400008: BuildingBlock_C
+    400010: BuildingBlock_D
+    400012: BuildingBlock_E
+    400014: BuildingBlock_F
+    400016: BuildingBlock_G
+    400018: BuildingBlock_H
+    400020: BuildingBlock_J
+    400022: BuildingBlock_K
+    400024: BuildingBlock_L
+    400026: BuildingBlock_M
+    400028: BuildingBlock_N
+    400030: BuildingBlock_O
+    400032: BuildingBlock_P
+    400034: Cellar_Entrance
+    400036: Chimney_A
+    400038: Door_A
+    400040: Door_Square
+    400042: Door_wSteps
+    400044: Fence
+    400046: Lamp_A
+    400048: Lamp_A 1
+    400050: Lamp_B
+    400052: Lamp_Single
+    400054: Lamppost
+    400056: Lamppost 1
+    400058: Lamppost_Double
+    400060: Lamppost_Single
+    400062: Road_Stones
+    400064: //RootNode
+    400066: Tavern
+    400068: TavernHouse
+    400070: Window_A
+    400072: Window_Square
+    400074: Window_Square_Blocked
+    400076: Window_Stickout
+    400078: Window_Arch
+    2300000: Bankje
+    2300002: Barrel
+    2300004: BuildingBlock_A
+    2300006: BuildingBlock_B
+    2300008: BuildingBlock_C
+    2300010: BuildingBlock_D
+    2300012: BuildingBlock_E
+    2300014: BuildingBlock_F
+    2300016: BuildingBlock_G
+    2300018: BuildingBlock_H
+    2300020: BuildingBlock_J
+    2300022: BuildingBlock_K
+    2300024: BuildingBlock_L
+    2300026: BuildingBlock_M
+    2300028: BuildingBlock_N
+    2300030: BuildingBlock_O
+    2300032: BuildingBlock_P
+    2300034: Cellar_Entrance
+    2300036: Chimney_A
+    2300038: Door_A
+    2300040: Door_Square
+    2300042: Door_wSteps
+    2300044: Fence
+    2300046: Lamp_A
+    2300048: Lamp_A 1
+    2300050: Lamp_B
+    2300052: Lamp_Single
+    2300054: Lamppost
+    2300056: Lamppost 1
+    2300058: Road_Stones
+    2300060: Window_A
+    2300062: Window_Square
+    2300064: Window_Square_Blocked
+    2300066: Window_Stickout
+    2300068: //RootNode
+    2300070: Window_Arch
+    3300000: Bankje
+    3300002: Barrel
+    3300004: BuildingBlock_A
+    3300006: BuildingBlock_B
+    3300008: BuildingBlock_C
+    3300010: BuildingBlock_D
+    3300012: BuildingBlock_E
+    3300014: BuildingBlock_F
+    3300016: BuildingBlock_G
+    3300018: BuildingBlock_H
+    3300020: BuildingBlock_J
+    3300022: BuildingBlock_K
+    3300024: BuildingBlock_L
+    3300026: BuildingBlock_M
+    3300028: BuildingBlock_N
+    3300030: BuildingBlock_O
+    3300032: BuildingBlock_P
+    3300034: Cellar_Entrance
+    3300036: Chimney_A
+    3300038: Door_A
+    3300040: Door_Square
+    3300042: Door_wSteps
+    3300044: Fence
+    3300046: Lamp_A
+    3300048: Lamp_A 1
+    3300050: Lamp_B
+    3300052: Lamp_Single
+    3300054: Lamppost
+    3300056: Lamppost 1
+    3300058: Road_Stones
+    3300060: Window_A
+    3300062: Window_Square
+    3300064: Window_Square_Blocked
+    3300066: Window_Stickout
+    3300068: //RootNode
+    3300070: Window_Arch
+    4300000: Lamppost
+    4300002: Lamp_Single
+    4300004: Lamppost
+    4300006: Lamp_A
+    4300008: Lamp_B
+    4300010: Door_A
+    4300012: Window_A
+    4300014: Lamp_A
+    4300016: Bankje
+    4300018: Fence
+    4300020: Road_Stones
+    4300022: Barrel
+    4300024: Chimney_A
+    4300026: Cellar_Entrance
+    4300028: Window_Square_Blocked
+    4300030: Window_Square
+    4300032: Door_wSteps
+    4300034: Window_Stickout
+    4300036: Door_Square
+    4300038: BuildingBlock_D
+    4300040: BuildingBlock_A
+    4300042: BuildingBlock_B
+    4300044: BuildingBlock_C
+    4300046: BuildingBlock_E
+    4300048: BuildingBlock_F
+    4300050: BuildingBlock_G
+    4300052: BuildingBlock_H
+    4300054: BuildingBlock_J
+    4300056: BuildingBlock_L
+    4300058: BuildingBlock_M
+    4300060: BuildingBlock_N
+    4300062: BuildingBlock_O
+    4300064: BuildingBlock_P
+    4300066: BuildingBlock_K
+    4300068: Window_Arch
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_VertexColor_Blend
+    second: {fileID: 2100000, guid: e8f78788085c04941a6ca7afc359614e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

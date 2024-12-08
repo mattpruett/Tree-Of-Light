@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8cf5e4ff6b2bb246a4a36d5ccaed9b4, type: 3}
+  m_Name: Dialogue3
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 6974057381980423880}
+  newNodeOffset: {x: 215, y: 0}
+--- !u!114 &6974057381980423880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72e9d4caa385ee740bf42a87f2d79be0, type: 3}
+  m_Name: 61a41d74-0af4-493b-96db-225cb6a39409
+  m_EditorClassIdentifier: 
+  isPlayerSpeaker: 0
+  text: 
+  responseIDs: []
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 200
+    height: 100

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Mat_VertexColor_Tinted
+  m_Shader: {fileID: 4800000, guid: 473218853199210469d297bd8f0cac0a, type: 3}
+  m_ShaderKeywords: _EMISSION _USEVERTEXALPHASTATIC_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Albedo:
+        m_Texture: {fileID: 2800000, guid: fd015b84eebb74e459a12ee94cfb2828, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tint_Gradient:
+        m_Texture: {fileID: 2800000, guid: d4722e15247459848a1b22e965649566, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopTexture0:
+        m_Texture: {fileID: 2800000, guid: fd015b84eebb74e459a12ee94cfb2828, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertexOffsetMap:
+        m_Texture: {fileID: 2800000, guid: e4b041911f380bc45b89592dd9b5d87c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _PannerSpeed: 0.75
+    - __dirty: 0
+    m_Colors:
+    - _VertexOffsetXYZ: {r: 15, g: 20, b: 15, a: 0}
